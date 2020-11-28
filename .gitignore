@@ -1,0 +1,16 @@
+#  Local .terraform directories
+**/.terraform/*
+
+# .tfstate files
+*.tfstate
+*.tfstate.*
+
+# .tfvars files
+*.tfvars
+
+# .pre-commit-terraform
+.pre-commit-config.yaml
+
+hadooplab_private_key*
+
+ansible*
